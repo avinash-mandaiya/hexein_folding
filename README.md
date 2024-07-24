@@ -1,5 +1,5 @@
 # hexein_folding
-<img src="https://github.com/user-attachments/assets/385c309e-0a8b-4155-acbf-a2dc32a121b1" width="200" />
+<img src="https://github.com/user-attachments/assets/385c309e-0a8b-4155-acbf-a2dc32a121b1" width="600" />
 
 ![b29-gh](https://github.com/user-attachments/assets/385c309e-0a8b-4155-acbf-a2dc32a121b1)
 
